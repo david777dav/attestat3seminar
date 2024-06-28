@@ -29,3 +29,5 @@
 Удаление последнего коммита не затрагивая зменений по тексту
 ## git branch -D existing_branch_name
 Принудительное удаление ветки
+## git push origin --delete existing_branch_name
+ Если хотите стереть удалённую ветку
